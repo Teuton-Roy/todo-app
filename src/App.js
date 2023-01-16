@@ -142,6 +142,8 @@
 
 //Import todo list//
 import TodoList from "./components/TodoList";
+//Import bootstrap library//
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   return (
