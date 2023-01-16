@@ -73,3 +73,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # install bootstrap in react.
     $ npm install bootstrap
 
+# install reactstrap in react.
+    $ npm install reactstrip
+
