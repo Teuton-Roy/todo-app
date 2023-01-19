@@ -1,4 +1,4 @@
-/* body{
+ body{
   background:#86109B;
   font-family: "Montserrat", sans-serif;
   font-size: 20px;
@@ -52,8 +52,7 @@
 }
 
 ul{
-  /* remove default padding and margin from ul*/
-  /* margin: 0px;
+   margin: 0px;
   padding: 0px;
 }
 
@@ -75,4 +74,4 @@ ul{
   color:#fff;
   max-width: 500px;
   margin: auto;
-} */ 
+} 
